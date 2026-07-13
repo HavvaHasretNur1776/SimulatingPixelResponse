@@ -136,7 +136,25 @@ Optimisations include
 These design choices reduce memory allocations and improve cache locality during repeated fits.
 
 ---
+## Results
 
+Tracks are fitted separately in the two transverse planes as X and Y projections. The resulting fit parameters are stored in tuples for detailed offline analysis.
+
+### Fit quality
+<img src="images/chi2.png" width="500">
+
+### Residuals
+<img src="images/residual.png" width="500">
+
+### Track parameter correlations and numeric results
+
+<img src="images/x-plane.png" width="500">
+
+<img src="images/table.png" width="500">
+
+
+
+---
 ## Preliminary
 
 - Modern C++
