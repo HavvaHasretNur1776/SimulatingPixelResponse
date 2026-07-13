@@ -168,7 +168,6 @@ These design choices reduce memory allocations and improve cache locality during
 
 Possible future extensions include
 
-- SIMD vectorisation
 - GPU-based reconstruction
-- Alternative fitting strategies
+- Exploiting chebyshev polynomials
 - Generalisation to additional detector geometries
