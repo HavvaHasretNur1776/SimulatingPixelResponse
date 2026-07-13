@@ -20,7 +20,7 @@
 
 //From PolynomialFitter
 //#include "PolynomialFitter/PolyFitter.h"
-#include "PolyFitter.h"
+#include "include/PolyFitter.h"
 
 #include <unordered_map>
 #include <random>
