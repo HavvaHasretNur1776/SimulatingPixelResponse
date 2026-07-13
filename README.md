@@ -137,30 +137,25 @@ These design choices reduce memory allocations and improve cache locality during
 
 ---
 
-## Technologies
+## Preliminary
 
 - Modern C++
 - Gaudi Framework
 - ROOT
 - Numerical Linear Algebra
 - Cholesky Decomposition
-- Monte Carlo Simulation
-- Scientific Computing
+
 
 ---
 
 ## Skills Demonstrated
 
-- Scientific Software Engineering
-- Simulation Software Development
-- Modern C++
 - Object-Oriented Design
 - Numerical Optimisation
 - Detector Response Modelling
 - Fast Reconstruction Algorithms
 - Memory-Efficient Data Structures
 - Template Programming
-- Monte Carlo Methods
 
 ---
 
